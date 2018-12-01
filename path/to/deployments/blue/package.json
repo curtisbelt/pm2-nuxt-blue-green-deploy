@@ -1,0 +1,16 @@
+{
+  "name": "pm2-blue-green-deploy",
+  "version": "1.0.0-blue",
+  "author": "Curtis Belt <curtis@curtisbelt.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build"
+  },
+  "dependencies": {
+    "nuxt-start": "^2.3.4"
+  },
+  "devDependencies": {
+    "nuxt": "^2.3.4"
+  }
+}
