@@ -1,0 +1,4 @@
+node_modules
+.nuxt
+/src/current
+/src/deployments/current

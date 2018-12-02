@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd path/to/deployments/blue
+cd src/deployments/blue
 yarn install
 yarn build
 
