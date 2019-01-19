@@ -5,7 +5,7 @@ This repo demonstrates:
 - How to deploy Nuxt.js 2.3.4 via PM2 using cluster mode and `nuxt-start` (faster than `nuxt start` and let's you put `nuxt` in devDependencies)
 - How to execute a simple blue/green symlink strategy
 - How to perform zero-downtime reloads between blue and green
-  - Including a hard to find fix for those using max 2 instances. PM2 reloads 2 instances at a time by default, have to use `PM2_CONCURRENT_ACTIONS=1` to avoid downtime!
+  - ~~Including a hard to find fix for those using max 2 instances. PM2 reloads 2 instances at a time by default, have to use `PM2_CONCURRENT_ACTIONS=1` to avoid downtime!~~ **UPDATE:** This is reportedly fixed in PM2 3.2.3 https://github.com/Unitech/pm2/pull/4053
 
 ### Requirements
 
