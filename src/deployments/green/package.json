@@ -11,6 +11,6 @@
     "nuxt-start": "^2.9.1"
   },
   "devDependencies": {
-    "nuxt": "^2.9.1"
+    "nuxt": "^2.9.2"
   }
 }
