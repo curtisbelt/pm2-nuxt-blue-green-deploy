@@ -8,7 +8,7 @@
     "build": "nuxt build"
   },
   "dependencies": {
-    "nuxt-start": "^2.9.1"
+    "nuxt-start": "^2.10.2"
   },
   "devDependencies": {
     "nuxt": "^2.9.1"
